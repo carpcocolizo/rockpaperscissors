@@ -1,0 +1,9 @@
+// README
+// This is a website to play Rock, Paper, Scissors vs the computer, first to 5 wins.
+// You can see my original JS code that is for playing on the console.
+// The final code is what I think people call spagehtti code.
+// It work perfect but I am sure that I can simplify a lot of the code, maybe I will do that in the future.
+// And the CSS style can be much better, but I didnt want to put so much emphasis on that, I can rework it later too.
+// The things I have learn were a lot, I had to google many times, and research a lot as TOP dont give you anything in a silver plate.
+// But for making it short, DOM manipulation and Event Listeners were the high points on my learning journey with this excersie.
+// Thank for reading, I am sure I will come back later to this and rework everything, as it could look much better.
